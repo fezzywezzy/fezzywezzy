@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fezzywezzy
 - 👀 I’m interested in Java OOP, JS
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning some high level Java..
+- 💞️ I’m looking to collaborate on cryptogrphic systems!
 - 📫 How to reach me geostav0990@gmail.com
 
 <!---
